@@ -1,3 +1,18 @@
+### Participantes do dojo do dia 17/11/2018
+
+- [@rafaelhenrique](https://github.com/rafaelhenrique)
+- [@cacarrara](https://github.com/cacarrara)
+- [@ramonberrutti](https://github.com/ramonberrutti)
+- [@FBSeletronica](https://github.com/FBSeletronica)
+- [@DianaSantos91](https://github.com/DianaSantos91)
+- [@pauloviniciusbaleeiro](https://github.com/pauloviniciusbaleeiro)
+- [@matped](https://github.com/matped)
+- [@ricaportela](https://github.com/ricaportela)
+- [@robertoguto](https://github.com/robertoguto)
+- [@sembug](https://github.com/sembug)
+
+### Links extras do dia
+
 Links para os próximos dojos:
 - Telegram: @coding_dojo_sorocaba
 - Meetup: https://www.meetup.com/pt-BR/Grupy-SP
